@@ -1,1 +1,2 @@
 # CodingTest
+I was tasked in creating code that would iterate in multiples of A until X, A+1 until 2X and A+2 until 3X. Assumption I have made are that once the first iteration has completed, it should keep iterating until 2X but in multiples of A+1 rather than starting again from 0. I also assumed that there shouldnt be any repeatition of number between each iteration when a number is multiples of Either A, A+1 or A+2.

@@ -28,7 +28,7 @@ public class TestClass {
 		counter=j;
 		}
 		
-		for(int k = counter; k<=3*x || k==3*x; k++ )
+		for(int k = counter; k<3*x || k==3*x; k++ )
 		{
 			if (k % (a+2) == 0 )
 			{
